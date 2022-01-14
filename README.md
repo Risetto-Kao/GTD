@@ -8,15 +8,15 @@
 - 請用 **Big 5** 編碼讀寫所有檔案
 - 如果是有 project 的開發環境可以直接 compile & run
 - 如果是 vscode 必須將 task.json 的 args 部分改成
-<p>"args": [
-				"-fdiagnostics-color=always",
-				"-g",
-				"${workspaceFolder}\\*.cpp",
-				"-o",
-				"main.exe"
-			]
-            </p>
-
+```
+"args": [
+			"-fdiagnostics-color=always",
+			"-g",
+			"${workspaceFolder}\\*.cpp",
+			"-o",
+			"main.exe"
+		]
+```
 ### run
 - 在您的路徑下開啟 main.exe
 - 輸入時可以輸入中文

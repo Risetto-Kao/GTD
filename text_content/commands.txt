@@ -1,0 +1,11 @@
+Enter '-h' ------- help           
+      '-i' ------- initialize a Target         
+      '-s' ------- show targets & lists     
+      '-a' ------- add events      
+      '-d' ------- set events done       
+      '-ar' ------ add reward 
+      '-gr' ------ gain reward 
+      '-sr' ------ show reward list 
+      '-c' ------- check time  
+      '-save' ---- save file   
+      '-exit' ---- exit this program
